@@ -1,6 +1,5 @@
 deb http://mirrors.bkns.vn/ubuntu bionic main restricted
 deb http://mirrors.nhanhoa.com/ubuntu bionic main restricted
-deb http://mirrors.vhost.vn/ubuntu bionic main restricted
 deb http://mirror.0x.sg/ubuntu bionic main restricted
 deb http://vn.archive.ubuntu.com/ubuntu bionic main restricted
 deb http://sg.archive.ubuntu.com/ubuntu bionic main restricted
@@ -9,7 +8,6 @@ deb http://archive.ubuntu.com/ubuntu bionic main restricted
 
 deb http://mirrors.bkns.vn/ubuntu bionic-updates main restricted
 deb http://mirrors.nhanhoa.com/ubuntu bionic-updates main restricted
-deb http://mirrors.vhost.vn/ubuntu bionic-updates main restricted
 deb http://mirror.0x.sg/ubuntu bionic-updates main restricted
 deb http://vn.archive.ubuntu.com/ubuntu bionic-updates main restricted
 deb http://sg.archive.ubuntu.com/ubuntu bionic-updates main restricted
@@ -18,7 +16,6 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates main restricted
 
 deb http://mirrors.bkns.vn/ubuntu bionic universe
 deb http://mirrors.nhanhoa.com/ubuntu bionic universe
-deb http://mirrors.vhost.vn/ubuntu bionic universe
 deb http://mirror.0x.sg/ubuntu bionic universe
 deb http://vn.archive.ubuntu.com/ubuntu bionic universe
 deb http://sg.archive.ubuntu.com/ubuntu bionic universe
@@ -27,7 +24,6 @@ deb http://archive.ubuntu.com/ubuntu bionic universe
 
 deb http://mirrors.bkns.vn/ubuntu bionic-updates universe
 deb http://mirrors.nhanhoa.com/ubuntu bionic-updates universe
-deb http://mirrors.vhost.vn/ubuntu bionic-updates universe
 deb http://mirror.0x.sg/ubuntu bionic-updates universe
 deb http://vn.archive.ubuntu.com/ubuntu bionic-updates universe
 deb http://sg.archive.ubuntu.com/ubuntu bionic-updates universe
@@ -36,7 +32,6 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates universe
 
 deb http://mirrors.bkns.vn/ubuntu bionic multiverse
 deb http://mirrors.nhanhoa.com/ubuntu bionic multiverse
-deb http://mirrors.vhost.vn/ubuntu bionic multiverse
 deb http://mirror.0x.sg/ubuntu bionic multiverse
 deb http://vn.archive.ubuntu.com/ubuntu bionic multiverse
 deb http://sg.archive.ubuntu.com/ubuntu bionic multiverse
@@ -45,7 +40,6 @@ deb http://archive.ubuntu.com/ubuntu bionic multiverse
 
 deb http://mirrors.bkns.vn/ubuntu bionic-updates multiverse
 deb http://mirrors.nhanhoa.com/ubuntu bionic-updates multiverse
-deb http://mirrors.vhost.vn/ubuntu bionic-updates multiverse
 deb http://mirror.0x.sg/ubuntu bionic-updates multiverse
 deb http://vn.archive.ubuntu.com/ubuntu bionic-updates multiverse
 deb http://sg.archive.ubuntu.com/ubuntu bionic-updates multiverse
@@ -54,7 +48,6 @@ deb http://archive.ubuntu.com/ubuntu bionic-updates multiverse
 
 deb http://mirrors.bkns.vn/ubuntu bionic-backports main restricted universe multiverse
 deb http://mirrors.nhanhoa.com/ubuntu bionic-backports main restricted universe multiverse
-deb http://mirrors.vhost.vn/ubuntu bionic-backports main restricted universe multiverse
 deb http://mirror.0x.sg/ubuntu bionic-backports main restricted universe multiverse
 deb http://vn.archive.ubuntu.com/ubuntu bionic-backports main restricted universe multiverse
 deb http://sg.archive.ubuntu.com/ubuntu bionic-backports main restricted universe multiverse
@@ -63,7 +56,6 @@ deb http://archive.ubuntu.com/ubuntu bionic-backports main restricted universe m
 
 deb http://mirrors.bkns.vn/ubuntu bionic-security main restricted
 deb http://mirrors.nhanhoa.com/ubuntu bionic-security main restricted
-deb http://mirrors.vhost.vn/ubuntu bionic-security main restricted
 deb http://mirror.0x.sg/ubuntu bionic-security main restricted
 deb http://vn.archive.ubuntu.com/ubuntu bionic-security main restricted
 deb http://sg.archive.ubuntu.com/ubuntu bionic-security main restricted
@@ -72,7 +64,6 @@ deb http://archive.ubuntu.com/ubuntu bionic-security main restricted
 
 deb http://mirrors.bkns.vn/ubuntu bionic-security universe
 deb http://mirrors.nhanhoa.com/ubuntu bionic-security universe
-deb http://mirrors.vhost.vn/ubuntu bionic-security universe
 deb http://mirror.0x.sg/ubuntu bionic-security universe
 deb http://vn.archive.ubuntu.com/ubuntu bionic-security universe
 deb http://sg.archive.ubuntu.com/ubuntu bionic-security universe
@@ -81,7 +72,6 @@ deb http://archive.ubuntu.com/ubuntu bionic-security universe
 
 deb http://mirrors.bkns.vn/ubuntu bionic-security multiverse
 deb http://mirrors.nhanhoa.com/ubuntu bionic-security multiverse
-deb http://mirrors.vhost.vn/ubuntu bionic-security multiverse
 deb http://mirror.0x.sg/ubuntu bionic-security multiverse
 deb http://vn.archive.ubuntu.com/ubuntu bionic-security multiverse
 deb http://sg.archive.ubuntu.com/ubuntu bionic-security multiverse
