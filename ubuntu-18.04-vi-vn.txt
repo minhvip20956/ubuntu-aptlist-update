@@ -7,10 +7,12 @@ deb http://mirrors.vhost.vn/ubuntu/ bionic main
 deb-src http://mirrors.vhost.vn/ubuntu/ bionic main 
 deb http://download.nus.edu.sg/mirror/ubuntu/ bionic main
 deb-src http://download.nus.edu.sg/mirror/ubuntu/ bionic main
-deb http://mirror.0x.sg/ubuntu/ bionic main 
-deb-src http://mirror.0x.sg/ubuntu/ bionic main
 deb https://linux.yz.yamagata-u.ac.jp/ubuntu/ bionic main 
 deb-src https://linux.yz.yamagata-u.ac.jp/ubuntu/ bionic main 
+deb http://ubuntutym.u-toyama.ac.jp/ubuntu/ bionic main 
+deb-src http://ubuntutym.u-toyama.ac.jp/ubuntu/ bionic main 
+deb http://kambing.ui.ac.id/ubuntu/ bionic main 
+deb-src http://kambing.ui.ac.id/ubuntu/ bionic main 
 #################################################
 
 #####################VietNam#####################
